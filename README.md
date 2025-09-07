@@ -1,7 +1,7 @@
 ### Project Overview
 
 Intermediate Web Programming:
-This project is a basic calculator using javascript. The goal being to get a better understanding of common functions and syntax.  
+This project is a basic calculator using javascript. The goal of this project is to get a better understanding of common functions and syntax.  
 
 ### Author Info
 
